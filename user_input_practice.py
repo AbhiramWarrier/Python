@@ -1,0 +1,5 @@
+name = input ("What is your name?")
+print("Hello", Abhiram)
+age = input("What is your age?")
+print("You are",17, "years old.")
+print ("Data type of age:", type (17))
